@@ -12,10 +12,8 @@ The app can operate offline using indexedDB. When the user is online again, all 
 
 ## Deployed App Link:
 
-[Workout Tracker APP](https://murmuring-castle-74097.herokuapp.com/)
+[Budget Tracker APP](https://murmuring-castle-74097.herokuapp.com/)
 
 ## Images:
-
-1. homepage
 
 ![](public/images/homepage.png)
